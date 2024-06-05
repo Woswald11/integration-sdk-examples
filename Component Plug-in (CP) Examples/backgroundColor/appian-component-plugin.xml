@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<appian-component-plugin name="Background Color" key="com.mycorp.background.color">
+<appian-component-plugin name="Background Color" key="com.acclaimautism.map">
   <plugin-info>
     <description>Provides a Background Color component to demo multi-select dropdowns</description>
-    <vendor name="Appian" url="http://www.appian.com" />
-    <support supported="true" email="support@appian.com" url="https://community.appian.com"/>
+    <vendor name="Acclaim_Autism" url="https://acclaimautism.com" />
+    <support supported="false" email="techsupport@acclaimautism.com" url="https://www.acclaimautism.com"/>
     <version>1.0</version>
   </plugin-info>
 
